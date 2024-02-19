@@ -3131,6 +3131,8 @@ INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('27/12
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('01/11/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Itumirim');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('22/05/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Iturama');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('23/08/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Iturama');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('13/06/2024', 'Dia de Santo Antônio', 'MUNICIPAL', '', 'MG', 'Itutinga');
+INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('27/11/2024', 'Dia de Nossa Senhora das Graças', 'MUNICIPAL', '', 'MG', 'Itutinga');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('08/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Jaboticatubas');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('17/12/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Jaboticatubas');
 INSERT INTO feriados (data, nome, tipo, descricao, uf, municipio) VALUES ('22/02/2024', 'Feriado Municipal', 'MUNICIPAL', '', 'MG', 'Jacinto');

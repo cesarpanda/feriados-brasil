@@ -25063,6 +25063,22 @@
     "uf": "MG",
     "municipio": "Iturama"
   },
+    {
+    "data": "13/06/2024",
+    "nome": "Feriado Municipal",
+    "tipo": "MUNICIPAL",
+    "descricao": "Dia de Santo Antonio",
+    "uf": "MG",
+    "municipio": "Itutinga"
+  },
+    {
+    "data": "27/11/2024",
+    "nome": "Feriado Municipal",
+    "tipo": "MUNICIPAL",
+    "descricao": "Dia de Nossa Senhora das Graças",
+    "uf": "MG",
+    "municipio": "Itutinga"
+  },
   {
     "data": "08/12/2024",
     "nome": "Feriado Municipal",
